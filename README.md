@@ -28,7 +28,7 @@ Fork the provided repository to your GitHub account.
 Clone the forked repository to your local machine:
 bash
 Copy code
-git clone https://github.com/<your-username>/repository-name.git
+git clone [github page] (https://github.com/hngprojects/devops-stage-2.git)
 cd repository-name
 # Dockerization
 Frontend Dockerfile
